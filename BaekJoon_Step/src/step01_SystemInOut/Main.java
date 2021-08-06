@@ -15,7 +15,7 @@ public class Main
 		System.out.println("(  /  )");
 		System.out.println(" \\(__)|");
 		
-		//3¹ø
+		//3¹ø 
 		System.out.println("|\\_/|");
 		System.out.println("|q p|   /}");
 		System.out.println("( 0 )\"\"\"\\");

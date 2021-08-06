@@ -12,4 +12,4 @@ public class Add {
 		}
 		System.out.println(sum);
 	}
-}
+} 
